@@ -581,7 +581,7 @@ const Skills = () => {
         title: 'Sri Lanka Railway Train Location Tracker',
         description: 'Real-time train tracking system for Sri Lankan railways with location updates, schedule management, and passenger information using microservices architecture.',
         category: 'Web App',
-        image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&h=400&fit=crop&crop=entropy',
+        image: 'https://res.cloudinary.com/dkwbnv9vd/image/upload/v1750413910/Sri-Lanka-By-Train_sr9mfu.webp',
         tags: ['React', 'Node.js', 'Express.js', 'MySQL', 'MongoDB', 'JWT', 'Microservices', 'Digital Ocean', 'REST API'],
         github: 'https://github.com/NisalMadura/SriLanka-Railway-Tracking-API.git',
         gradient: 'from-blue-500 to-purple-600'
@@ -653,7 +653,7 @@ const Skills = () => {
         category: 'Web App',
         image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop&crop=entropy',
         tags: ['C#', 'ASP.NET', 'HTML', 'CSS', 'MS SQL', 'Microservices'],
-        github: 'https://github.com/NisalMadura/User-declarant-approval-system.git',
+       
         gradient: 'from-blue-600 to-indigo-600'
       },
       {
